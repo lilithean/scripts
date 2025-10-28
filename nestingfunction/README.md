@@ -47,5 +47,5 @@ Typical workflow:
 
 If you use or adapt this script, please cite:
 
-> **X. Wang**, *Electronic Nesting Function and Fermi Surface Mapping in Transition-Metal Systems*,
+> **X. Wang**, *Single-Layer Clathrane: A Potential Superconducting Two-Dimensional Hydrogenated Metal Borocarbide*,
 > *Nano Letters* **2025**, DOI: [10.1021/acs.nanolett.5c04166](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5c04166).
