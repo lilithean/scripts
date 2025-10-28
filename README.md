@@ -1,6 +1,6 @@
 # Xiaoyu’s Open Research Scripts
 
-This repository hosts a collection of scripts and computational tools developed by **Xiaoyu Wang** in the context of research on condensed-matter physics, computational materials science, and surface chemistry.  
+This repository hosts a collection of scripts and computational tools developed by **Xiaoyu Wang** in the context of research on condensed-matter physics, computational materials science, and surface chemistry under the supervision of **Eva Zurek**.  
 The goal is to promote transparency, reproducibility, and community sharing of research methods, data workflows, and modeling tools.
 
 ---
